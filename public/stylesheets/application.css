@@ -1,0 +1,9 @@
+.lamp-img {
+	background: url(/images/lamp.png) no-repeat;
+	width: 150px;
+    height: 100px;
+    background-size: contain;
+    display: block;
+    position: absolute;
+    left: 640px;
+    bottom: 180px;
